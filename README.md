@@ -49,7 +49,7 @@ Safe and Sophie Germain primes are essential in:
 - 🧮 Lattice-based cryptography
 - 🧾 Digital signatures and secure hashing
 
----
 
-## 📂 Project Structure
+
+
 
